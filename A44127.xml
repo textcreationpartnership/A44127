@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faith and testimony of the martyrs and suffering servants of Jesus Christ persecuted in New England vindicated against the lyes and slanders cast on them by Nathaniel Morton in his book intituled New England memorial / written ... by ... Christopher Holder.</title>
+            <author>Holder, Christopher, d. 1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44127</idno>
+            <idno type="STC">Wing H2384</idno>
+            <idno type="STC">ESTC R31117</idno>
+            <idno type="EEBO-CITATION">11779930</idno>
+            <idno type="OCLC">ocm 11779930</idno>
+            <idno type="VID">48996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faith and testimony of the martyrs and suffering servants of Jesus Christ persecuted in New England vindicated against the lyes and slanders cast on them by Nathaniel Morton in his book intituled New England memorial / written ... by ... Christopher Holder.</title>
+                  <author>Holder, Christopher, d. 1688.</author>
+                  <author>Rous, John, d. 1695. A few queries put forth.</author>
+               </titleStmt>
+               <extent>[1], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"A few queries put forth" by John Rous, p. 10-11.</note>
+                  <note>Errata p. 11.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Morton, Nathaniel, 1613-1685. --  New-Englands memoriall.</term>
+               <term>Society of Friends --  New England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48996:1"/>
+            <head>The Faith and Teſtimony of the Martyrs and ſuffering Servants of Chriſt Jeſus perſecuted in <hi>New England</hi> vindicated, againſt the lyes and ſlanders caſt on them by <hi>Nathaniel Morton</hi> in his Book intituled <hi>New Englands Memorial.</hi>
+            </head>
+            <opener>
+               <signed>Written for the ſake of the honeſt hearted, by a ſervant of the living God, who is a witneſs of the Reſurrection of Chriſt Jeſus, and of his appearance the ſecond time without ſin unto Salva<g ref="char:EOLhyphen"/>tion.
+Chriſtopher Holder.</signed>
+            </opener>
+            <epigraph>
+               <q>A faithful witneſs will not lye, but a falſe record will ſpeak lyes. <bibl>Prov. 14.5.</bibl>
+               </q>
+               <q>they bend their tongues like their bows for lies, but they have no courage for truth upon the Earth: for they proceed from evil to worſe, and they have not known me, ſaith the Lord <bibl>Jer: 9.3.</bibl>
+               </q>
+            </epigraph>
+            <p>THere is no new thing under the Sun, as it hath been alwayes, ſo it is now he that is born after the fleſh perſecuteth him that is born after the Spirit, the fruits of which we have found plentifully in <hi>New England,</hi> the beaſt and falſe Prophet hath joyn<g ref="char:EOLhyphen"/>ed together to war with the Lamb and his followers, and the Dragon hath opened his mouth wide to ſwallow up the woman that is coming up out of the wilderneſs, through whom the man child ſhall be brought forth to rule the Nations with a rod of Iron.</p>
+            <p>In the power of which Dragon I have found one <hi>Nathaniel Morton,</hi> as by the language which proceedeth out of his mouth doth plainly appear, in a Book tituled <hi>New Englands Memorial,</hi> where in he undertakes to write againſt an innocent harmleſs peo<g ref="char:EOLhyphen"/>ple whom God hath made choice of to bear witneſs <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his Spirit,
+<pb n="3" facs="tcp:48996:2"/>of <hi>God, are led by the ſpirit of God,</hi> and again as many as walk accor<g ref="char:EOLhyphen"/>ding to this rule: <hi>peace be unto them, and mercy upon the Iſrael of God,</hi> (<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) <hi>this is Chriſt by whom man became a new creature,</hi> as it is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the fore going words in that Chapter, &amp; how can you own it to be a ſetled &amp; permanant rule, when as one of your Majeſtrates <hi>William Collier,</hi> by name ſaid to <hi>William Newland,</hi> and <hi>Ralph Allen,</hi> that in <hi>Beza's</hi> tranſlation there is eight hundred errours, in the laſt tranſlation three hundred errours, ſurely if there be ſo many errours in that which ye call your ſetled &amp; permanent rule, you had need to have the Spirit of truth to ſhow you wherein the errours are, or elſe you will ſoon e're from the truth, and the rule of life, and ſalvation.</p>
+            <p>
+               <hi>3dly. Thou ſayeſt they deny the man-hood of Chriſt, and affirm that as a man he is not in Heaven.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> As for the word manhood I know not of ſuch a word in the Scriptures, but if thou mean by manhood the man Chriſt Jeſus, <hi>which was conceived of the holy Ghoſt in the womb of the Virgin Mary, who was of the ſeed of David according to the fleſh, who took on him the ſeed of Abraham, who was crucified by the Jews, and roſe again the third day,</hi> according to the Scriptures, then I utterly deny what thou ſaiſt, and do affirm that that Jeſus Chriſt we own, and no other, and do verily believe through him, and by him to be ſaved and by no other, knowing that he only died for our ſins, and is riſen again for our juſtification, and is aſcended into the higheſt Heavens, Angels, principallities and powers, being ſubjected unto him, where he is glorified with the ſame glory that he had with the father before the world was, who is the expreſs Image of the inviſible &amp; God, the firſt born of every creature, for by him were all things created both viſible and inviſible, and is the head and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ride<g ref="char:EOLhyphen"/>groom of the Church, which he hath purchaſed unto himſelf by his blood: this is our faith concerning Chriſt, and if your faith is other wiſe then this, it is contrary unto the faith of Gods elect, that gave forth the Scriptures, and then your Chriſt is not the
+<pb n="4" facs="tcp:48996:2"/>true Chriſt, but Antichriſt, and you are of them that deny both the Father and the Son and then your doctrine is damnable, and corrupt, and ſo that which you charge others withall, you are guilty of your ſelves.</p>
+            <p>
+               <hi>4thly. Thou ſayest they deny the Reſurrection of the dead.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This charge alſo <hi>I</hi> utterly deny, &amp; do affirm that we believe, that as in the firſt Adam all died, ſo in the ſecond Adam ſhall all be made alive, and ſhall be raiſed unto life everlaſting, or unto condemnation everlaſting, and that all ſhall receive from the name of the Lord a juſt reward for their deeds done in the body, whether they be good, or whether they be evil, elſe were we of all men moſt miſerable, if we had only hope in this life, and as the Apoſtle ſaith, if the dead ariſe not at all, why are they then bap<g ref="char:EOLhyphen"/>tized for the dead, and why ſuffered we impriſonments, whipings, Cuttings, of our ears, and ſome of us the loſs of our lives, whoſe blood ſtill lies at the doors of our perſecutors, in <hi>New England,</hi> herein thou may be a witneſs of the falſeneſs of the charge, for if we were ſuch as thou would by thy lies make us to be, we might ſay as the Apoſtle did, it being the conſequence of ſuch <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tenant, <hi>let us eat and drink for to morrow we ſhall dye,</hi> but our ſuffering unto death doth teſtifie, that our hope was not only in this life, but that after the deſolution of our Houſe of this Earthly tabernacle, we ſhould have a building of God, a Houſe not made with hands, e<g ref="char:EOLhyphen"/>ternal in the Heavens, &amp; it is evident that they who deny the reſur<g ref="char:EOLhyphen"/>rection cannot with chearfulneſs offer up their lives to the death as our friends did becauſe then the hope of all their injoyments are at an end, but our martyred friends being in the ſame faith as the ancient worthies were, one of them not accepting deliverance but by conſtraint when offered, that ſhe might obtain a better re<g ref="char:EOLhyphen"/>ſurrection &amp; further we can truly ſay as Paul did in the like caſe, <hi>what did it advantage him of he had fought with beaſts at Epheſus after the manner of men, if the dead he not raiſed,</hi> ſo can we ſay, not what doth it advantage us, if we have fought with Beaſts at <hi>New
+<pb n="5" facs="tcp:48996:3"/>England</hi> after the maner of Men (if the dead riſe not) whom we found more like Wolves, Bears. and devouring Lyons, then like Chriſtian Men, as witneſs your fore mentioned cruelty on the innocent Lambs of Chriſt, whom he ſent among you to warn you of the evil of your ways, ſo by what here is written, &amp; what we al<g ref="char:EOLhyphen"/>ſo ſuffered among you I hope it will manifeſtly appear unto all honeſt hearted people, that not we but you as your practices have ſhewn do deny the reſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rection: and <hi>Nathaniel Morton</hi> if thou art as groſly falſe in other things in thy Book called <hi>New Englands Memorial</hi> as in this it is not worthy to be minded by any, but as the <hi>Memorial</hi> of the wicked periſh.</p>
+            <p>
+               <hi>5thly. Thou ſayeſt they affirm that an abſolute perfection in holineſs and grace is attainable in this life.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Theſe are thy own words, but this is that we hold, we believe that Chriſt is perfect, and that the gift and grace of God is perfect, and that as man is led and guided by it, he is led to deny all ungodlineſs and Worldly luſts, and to live Godly in this pre<g ref="char:EOLhyphen"/>ſent World, and unto this Chriſt and grace and gift of God which is perfect do we direct all people, that in him they may believe, and from him they may receive power, that thereby they may know the Regeneration and the new birth and ſo become the Sons of God, and that is the perfect ſtate which we ſay is attainable in this life, for that birth cannot ſin, it is true it may be ſlain or made a ſufferer by ſin, but it ſelf cannot ſin, as <hi>John</hi> ſaith, <hi>he that is born of God ſinneth not, neither can he ſin, becauſe his ſeed remaineth in him,</hi> and this is no new thing, nor ſtrange nor damnable doctrine for this was the end or work of the Miniſtry, which the Apoſtles had received from Chriſt, for the perfecting the Saints, &amp; that they might preſent every man perfect in Chriſt, alſo he prayed for them that they might be perfect, and intire wanting nothing, but this Faith or condition is not ſoon or eaſily attained to, nor by no other means known but as Man cometh through the death with Chriſt to ſin, and is made a live by him to Righteouſneſs, and if
+<pb n="6" facs="tcp:48996:3"/>you preach any other doctrine then his, you preach another Goſ<g ref="char:EOLhyphen"/>pel then what <hi>Paul</hi> preached and ſo are under the curſe which <hi>Paul</hi> pronounced againſt them that preached another Goſpel and ſo in the end you will be found your ſelves to be a pernitious ſect of Hereticks, and not us called <hi>Quakers.</hi>
+            </p>
+            <p>
+               <hi>6thly, Thou ſayeſt they placed their Juſtification upon their pati<g ref="char:EOLhyphen"/>ence and ſuffering for their opinions, and on their righteous life, and retired ſeverity, and affected ſingularity, in the words and Jeſtures.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This is a moſt abominable lie, and a falſe ſlander, for which thou muſt receive thy reward, among the lyers in the Lake except thou repent, for we place Juſtification in none but in Chriſt, nor by no other means are we juſtified in the ſight of God, but by the Righteouſneſs of Chriſt, who of God is made unto us Wiſdom, Righteouſneſs, Sanctification, &amp; Redemption, and as we feel this Righteouſneſs of Chriſt wrought in us, and we wrought into it, we feel our ſelves juſtified in Chriſt, and ſo have peace with God, and to believe and witneſs this is no error nor delu<g ref="char:EOLhyphen"/>ſion, and to preach it unto others is no corrupt nor damnable doctrine.</p>
+            <p>
+               <hi>7thly, Thou ſayeſt as to civil account they uſed not nor practiced any civil reſpect to Man though Superiours either in Majeſtratical con<g ref="char:EOLhyphen"/>ſiderations, or as Maſters, or Parents, or the Antient in word or geſture.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This is another lie, and falſe ſlander, for as for civil re<g ref="char:EOLhyphen"/>ſpect we allow it to all Men according to their places, both in word and geſture, as for Magiſtrates we reſpect their commands in doing what is juſt and right, and in ſuffering that which is un<g ref="char:EOLhyphen"/>juſt, not uſing any means of reſiſtance by carnal weapons, and as to Maſters and Parents, we own ſubjection and obedience to them in all things, that do not croſs the command and will of God, but as to fooliſh jeſtures and flattering titles, which are in themſelves and as commonly they are uſed, are uncivil and not civil, but uſually done in Hypocricy and vain glory, and deceit,
+<pb n="7" facs="tcp:48996:4"/>theſe things we deny, and cannot give it unto any man, nor re<g ref="char:EOLhyphen"/>ceive it from any man, for in ſo doing we ſhould be reprooved by our maker, and of this mind was <hi>Elihu,</hi> who ſaid, <hi>I will not now accept the perſon of Man; neither will I give flattering titles to Man, for I may not give titles to man, leaſt my Maker ſhould take me away ſuddenly.</hi>
+            </p>
+            <p>
+               <hi>8thly. Thou ſayeſt we deny the uſe of oaths for the deciding civil controverſies.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That we do and upon all other accounts whatſoever, and that in obedience to the command of Chriſt, who ſaith <hi>ſwear not at all, but let your communication be yea, yea, nay, nay, for whatſoever is more, cometh of evil,</hi> the Apoſtle <hi>James</hi> ſaith, <hi>before all things my brethren ſwear not, neither by Heaven, nor by Earth, nor by any o<g ref="char:EOLhyphen"/>ther Oath, but let your yea be yea, and your nay, nay, leaſt you fall into condemnation,</hi> and is this corrupt and damnable doctrine, doſt not thou condemn thy ſel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the things that thou alloweſt wouldeſt thou have the Scriptures to be a ſetled and permanent Rule, and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>call the doctrine therein contained, corrupt, pernitious, and damnable, wouldeſt thou not have called Chriſt and the A<g ref="char:EOLhyphen"/>poſtles a pernitious ſect and their doctrine, corrupt and dam<g ref="char:EOLhyphen"/>nable, if thou hadſt been in their days, to that of God in thee I ſpeak, which ſhall anſwer me in the day when the book of con<g ref="char:EOLhyphen"/>ſcience is opened and thou Judged out of it, and rewarded ac<g ref="char:EOLhyphen"/>cording to thy work.</p>
+            <p>
+               <hi>9thly, Again thou ſayeſt this ſpirit of deluſion became very pre<g ref="char:EOLhyphen"/>valent with many ſo as the Number of them increaſed to the great danger of the ſubvertion both of Church and State, notwithſtanding the endeavours of them in Authority to ſuppreſs the ſame, had not the Lord declared againſt them in blaſting their enterprizes and contrive<g ref="char:EOLhyphen"/>ments, ſo as they have of late withered away in a great meaſure; ſun<g ref="char:EOLhyphen"/>dry of their teachers and leaders which have cauſed them to erre, are departed the Country, and we trust the Lord will make the folly of the remainder manifeſt more and more.</hi>
+            </p>
+            <pb n="8" facs="tcp:48996:4"/>
+            <p>
+               <hi>Anſ.</hi> I grant that the truth which thou calleſt a deluſion became very prevalent with many and hath entred into the hearts of many, and hath prevailed, notwithſtanding your Priſons, Whips, and Gallows, or any other, your carnal Weapons and as it hath pro<g ref="char:EOLhyphen"/>ſpered ſo it doth proſper and ſhall proſper notwithſtanding all t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at you can ſay or do, for the Lord hath not declared againſt us, neither are we withered a way, but it thou haſt an eye open, thou might ſee the contrary; for the Lord hath appeared for us, and given us great d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minion over you, ſo that we can paſs from all your Juriſdictions without any moleſtation, and that we are not withered a way its evident to all men, for our Meetings are more publick and larger then ever they were, and this is brought to paſs and accompliſhed through the help and power of God, notwith<g ref="char:EOLhyphen"/>ſtanding all your bloody perſecuting carnal Weapons; and al<g ref="char:EOLhyphen"/>though ſome of us according to the will of God are departed the Country, yet there are enough remaining to make thy folly mani<g ref="char:EOLhyphen"/>feſt unto all men more and more.</p>
+            <p>
+               <hi>Again thou concludes with th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe vows let our deliverance from ſo great a danger be received among the principall of the Lords gratious providences towards</hi> New-England.</p>
+            <p>
+               <hi>Anſ.</hi> Alas poor man thou gloryeſt in that which will be your ſhame; for I know not why thou boaſts of deliverance, except it be in this, that we come not ſo o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten to your meetings and courts as we were uſed to do, and if it be ſo, if thou rightly underſtand the cauſe thereof, it would cauſe thee to lament and not rejoyce if thou haſt any tenderneſs in thee towards God, for in that the Lord requireth us not to viſit you as formerly, it plainly ſignifieth that the day of your viſitation is over and that you are left to your ſelves and given up to hardneſs of heart, and blindneſs of mind as <hi>Iſrael</hi> of old was, whom the Prophet complained of ſaying why ſhould they be ſmitten any more they revolt more and more.</p>
+            <p>Again <hi>as touching Ephraim the Prophet ſaith, Ephraim is joyned to Idols let him alone, &amp; again Chriſt ſaith of the Phariſees, let them a<g ref="char:EOLhyphen"/>lone,
+<pb n="9" facs="tcp:48996:5"/>they are the blind leaders of he blind, and again, he that is filthy let him be filthy ſtill, ſo that, it is an evident ſign that, that viſitation is over,</hi> and that the next thing that can be expected is utter deſtruction from the hand of the Lord, and I am jealous, nay I veri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y believe this is the caſe with ma<g ref="char:EOLhyphen"/>ny of you at this day in <hi>New England,</hi> who have had a hand ſo deeply in ſhedding the Innocent blood of the faithful ſervants and meſſengers of the moſt high, who loved not their lives to the death that they might finiſh their teſtimony in faithfulneſs to the Lord among you.</p>
+            <p>And why <hi>Nathaniel</hi> did thou not mention in thy <hi>Memorials</hi> how you have cauſed the innocent people called <hi>Quakers</hi> to ſuffer by you, &amp; how you have impriſoned whipped, ſpoiled their goods cut off their ears, baniſhed, and hanged them for the breach of no known juſt Law, either of God or man, ſurely it thou had<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been an impartial Hiſtorian, thou would have mentioned this, but I believe your actions have been ſo riged and bloody contrary to juſtice and equity, Chriſtianity and humanity, that thou art aſhamed it ſhould be recorded for a Memorial for Ages to come, that they might underſtand how far you are digreſſed, from that which ye pretended you came hither for, to wit, liberty of Conſcience, and why did not thou write impartially of things and men as they were, as they did who writ the Kings and Chronicles, who plainly declared of men as they were juſtifying of that which was good, and diſowning that which was evil in them, though they were their Kings, Governors, or Prieſts but thou haſt manifeſt thy ſelf to write by another ſpirit then they writ, and haſt done quite contrary; crying up men beyond what they were and indeed beyond what your principle is, its poſſible for man to be whilſt in the body but thou haſt manifeſted thy folly and hypocri<g ref="char:EOLhyphen"/>cy to all men, who knew theſe men it may be better then thy ſelf, as for ſome of them I well know to be men quite contrary both in life and judgement to what thou haſt reported of them.</p>
+            <p>Therefore my deſire is that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may come to ſee the deceit of thy heart and the falſeneſs <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that roles thee, and if poſſible that thou may come to repent of it, and turn from it, leaſt thou he ſwept away in the like judgments, as ſome of them were of whom thou makeſt mention to be miraculouſly ſlain with Thunder, for know this except you repent, ye ſhall all likewiſe periſh and he ſwept away in judgment, as your Fore fathers the Perſecutors in other ages have been.</p>
+            <p>For know this that the Lord nor God is riſen to ſweep the earth, and the day of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is at <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the year of recompence draweth nigh, for the ſins of the great <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Babilon and <hi>Egypt</hi> (whoſe Children
+<pb n="10" facs="tcp:48996:5"/>ye are as by your ſpirits is manifeſt) and the cry thereof is come up un<g ref="char:EOLhyphen"/>to Heaven, and God hath remembred her iniquiteis, and ſhe ſhall receive double from the hand of the Lord for all her tranſgreſſions, for in her hath been found the blood of the prophets, and Saints, and Martyrs of Jeſu, Chriſt, and of all that hath been ſlain upon the Earth, and ſhe ſhall be rewarded as ſhe hath rewarded us, and receive in the cup dou<g ref="char:EOLhyphen"/>ble for that which ſhe ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h filled to us, have ſhe or you, her children called us Deceivers, Hereticks, Antichriſtian pernitious and damnable we will now call her Deceiver, Hereticks, Antichriſtian, pernitious and, damnable, yea, we can double it upon her for we can prove it, to be ſo or elſe her Children, and as by your fruits, for as the have done ſo have you, murdered, killed and ſcandalized the Innocent, harmleſs, Lambs of Chriſt ſo it is evident that ye are members of the great Whore, falfe Church &amp; Antichriſt, &amp; that you are guilty of thoſe charges, which thou and thy brethren have falſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charged upon us who are cal<g ref="char:EOLhyphen"/>led <hi>Quakers.</hi>
+            </p>
+            <p>So in ſhort I have ſaid ſomething for clearing of the Truth, from the flood of ſlanders which thou haſt caſt out againſt it, who am one of thoſe that firſt came among you; and have felt the cruelty of all your Laws except death, and have outlived them, and by the power of the Lord come over them all, ſo that I and the reſt of my brethren, can walk through all your juriſdictions, and not a hand lifted up againſt us, though thou haſt gloried ſo much of your being delivered from us.</p>
+            <bibl>
+               <hi>Chriſtopher Holder.</hi>
+            </bibl>
+            <p>And now <hi>Nath. Morton,</hi> the truth in the above mentioned particulars being c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eared, and thy lies falſhoods caſt upon it diſowned a few Que<g ref="char:EOLhyphen"/>ries I put forth (who have been a ſufferer among you in <hi>New England</hi>) for thee or any other to anſwer who are of that Jewiſh and Antichriſtian ſpirit of perſecution to anſwer, that ſo it may appear whether your Doctrines and practices are moſt agreeable to Chriſt and his Apoſtles or ours we being the ſufferers, and you the perſecutors.</p>
+            <p n="1">1. Whether the <hi>Jews</hi> in their zeal for the Law of <hi>Moſes,</hi> &amp; perſecuting Chriſt &amp; his Apoſtles were not as juſtifiable as you, ſeeing they ſtood up for that which they had received by <hi>Moſes</hi> from the Lord, but you for that which you have ſet up of your ſelves &amp; received by tradition; &amp; whether it be not the ſame Spirit that is now working in you as was among them ſeeing your works are one and the ſame with them? for they by Chriſts coming to fulfill the Law thought he did go about to diſtroy it, and you by our preaching up the Life and perfection of the Scriptures think we go about to make them void and of no effect.</p>
+            <pb n="11" facs="tcp:48996:6"/>
+            <p n="2">2. Whether the odious terms which you caſt upon us &amp; our doctrines as a curſed ſect Hereticks Blaſphemers, holders of damnab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e doctrines &amp; ſuch like, do not proceed from the ſame Spirit which was among the Jews &amp; hea<g ref="char:EOLhyphen"/>then, who called <hi>Paul</hi> a peſtilent fellow, a ſeducer a mover of ſedition <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Ringleader of the Sect of the <hi>Nazareeni,</hi> ſeeing we as he did teach no other things, then are contained in the Scriptures of truth and is it not a certain mark of a falſe Church <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o perſecute? ſeeing perſecution was never uſed by any of the true Church, their weapons not being carnal but Spiritual, and perſecution was not known amongſt them that bore the Name of Chriſti<g ref="char:EOLhyphen"/>anity, till there was a degeneration among them: &amp; whether you have not reaſon to queſtion your ſtate, being found i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſteps of their degeneration</p>
+            <p n="3">3. Whether the people of <hi>New England</hi> in leaving their native Coun<g ref="char:EOLhyphen"/>try intended never to come to a further diſcovery of the Lord? and whe<g ref="char:EOLhyphen"/>ther when the Lord ſent his ſervants among you to make known his way further to you, ye did well ſo evilly to intreat them? even in the higheſt extremity, ſhewing your ſelves more like heathens then Chriſtians?</p>
+            <p n="4">4. Whether Chriſts commands Swear not at all, be not poſitive? and whether not at all doth not exclude all manner of ſwearing by one thing as well as another, in one caſe as well as an other? and whether any man upon earth is able to diſpence with the breach of this his command, ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing there is a heavy denunciation againſt him that ſhall break one of the leaſt of them, and teach men ſo to do, and a promiſe to him that ſhall obſerve them and teach them and whether the teſtimony of him that feareth the Lord, may not be as true and worthy to be taken without an oath, as the teſtimony of him that feareth not the Lord nor breaking his command is with an oath, ſeeing the one out of conſcience to God dare not ſpeak a lie, but the other not fearing to ſpeak a lie, may with the ſame ſearedneſs of conſcience ſwear a lie alſo.</p>
+            <p n="5">5. And what inconvenience have been found, where mens teſtimonies (under the penallty of perjury for falſe ſwearing) have been taken ſeeing if a good conſcience be not kept they run the ſame hazard and corporall puniſhment as if they Swore falſely, which is the greateſt obligation upon men not fearing God that may be
+<bibl>
+                  <hi>John Rous</hi>
+               </bibl>
+            </p>
+            <p>
+               <hi>N. M.</hi> If there had been the ſame liberty in <hi>New-England</hi> for the publiſhing truth by us, as for thee to publiſh the Scandals a fore mention<g ref="char:EOLhyphen"/>ed, an anſwer had appeared in Print before this time.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Page</hi> 1. line 26. <hi>for <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, is manifeſt, p.</hi> 2. <hi>l.</hi> 29. <hi>for by, r. and that, p.</hi> 3. <hi>l.</hi> 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>for and Gods, r. God and, p.</hi> 4. <hi>l.</hi> 32. <hi>for <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what, r. what. p.</hi> 6. <hi>l.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>for the r. their.</hi>
+            </p>
+            <pb facs="tcp:48996:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
